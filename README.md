@@ -1,3 +1,6 @@
+>[!WARNING]
+>This repo is archived! This was never the main branch for this project, just an experiment with the Meson build system - we settled on CMake. Please see https://github.com/SunDevilRocketry/Linux-DAQ-Driver for active development.
+
 # Development on Sun Devil Rocketry Linux Data Acquisition Driver
 This repository will hold a drive for a Linux userspace driver to acquire data from SDR hardware.
 
